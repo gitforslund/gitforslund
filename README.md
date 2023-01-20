@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Om mig
+![Bild på mig](https://studenter.miun.se/~emfo2200/GTWM2/images/portrait.png "Logo Title Text 1")
 Hej världen!!
 
 ### Om Github
@@ -23,3 +24,5 @@ Det här verkar kul!
 
 ### Om utbildningen
 Den är inte heller så dum!
+
+
