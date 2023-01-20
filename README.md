@@ -1,4 +1,4 @@
-### Hi there 👋
+# Emanuels Github
 
 <!--
 **gitforslund/gitforslund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Om mig
+## Om mig
 ![Bild på mig](https://studenter.miun.se/~emfo2200/GTWM2/images/portrait.png "Logo Title Text 1")
-Hej världen!!
 
-### Om Github
-Det här verkar kul!
+Hej världen!
 
-### Om utbildningen
-Den är inte heller så dum!
+
+
+
 
 
