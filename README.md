@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Om mig
+Hej världen!!
+
+### Om Github
+Det här verkar kul!
+
+### Om utbildningen
+Den är inte heller så dum!
